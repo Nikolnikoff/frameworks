@@ -1,0 +1,13 @@
+com\nikolnikov\nikolnikov_store\model\Store.class
+com\nikolnikov\nikolnikov_store\AppStore.class
+com\nikolnikov\nikolnikov_store\repository\StoreRepository.class
+com\nikolnikov\nikolnikov_store\controller\StoreController.class
+com\nikolnikov\nikolnikov_store\model\Product.class
+com\nikolnikov\nikolnikov_store\model\StoreDto.class
+com\nikolnikov\nikolnikov_store\service\ProductServiceImpl.class
+com\nikolnikov\nikolnikov_store\controller\ProductController.class
+com\nikolnikov\nikolnikov_store\model\ProductDto.class
+com\nikolnikov\nikolnikov_store\model\ProductDto$ProductDtoBuilder.class
+com\nikolnikov\nikolnikov_store\repository\ProductRepository.class
+com\nikolnikov\nikolnikov_store\model\StoreDto$StoreDtoBuilder.class
+com\nikolnikov\nikolnikov_store\service\ProductService.class
